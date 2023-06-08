@@ -1,0 +1,2 @@
+This is my first bot for twitter. the purpose of this bot is to tweet a quote by Abraham Lincoln once every day. the script is hosted on my server that runs the script daily.
+i used the tweepy package using twitter 0auth and tweepy client version to automartically post tweet to the twitter account @quotinglincoln
